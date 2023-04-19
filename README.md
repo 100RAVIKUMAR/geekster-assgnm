@@ -1,2 +1,0 @@
-# geekster-assgnm
-Ravis assignment 
