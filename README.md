@@ -21,4 +21,4 @@
 
 ## Project Summary
 ##### --> This is a SpringBoot based project uses Hibernate as ORM. It allows to perform the CRUD operations 
-   such as Adding a list odf employees with adress,updating,fetching data and Deleting data. 
+   such as Adding a list of Stocks,updating,fetching data and Deleting data using respective Api's in controller. 
