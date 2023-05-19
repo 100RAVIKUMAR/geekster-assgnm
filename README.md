@@ -15,7 +15,7 @@
 #### --> Todo Dao
 
 ## DataBase used:
-#### --> MySql
+#### --> ArrayList
 
 ## Project Summary
 ##### --> This is a SpringBoot based project uses Hibernate as ORM. It allows to perform the CRUD operations 
